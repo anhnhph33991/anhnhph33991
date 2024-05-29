@@ -9,18 +9,6 @@
 <br/>
 
 <div align="center">
-
- 🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
-
-<h2 align="center">:money_with_wings: Frameworker :money_with_wings:</h2>
-
-<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
