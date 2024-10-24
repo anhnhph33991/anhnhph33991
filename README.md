@@ -79,6 +79,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anhnhph33991&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+###
+<div align="center">
+      <img src="https://visitcount.itsvg.in/api?id=anhnhph33991&label=Views&color=1&icon=5&pretty=true" />
+</div>
+
+
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Cbd+Deo+Phe">
 </h3>
